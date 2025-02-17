@@ -208,6 +208,11 @@ ro.config.avoid_gfx_accel=true
 persist.vendor.pps.disallowed=1
 persist.vendor.hvdcp_opti.disallowed=1
 
+# HWUI
+debug.hwui.use_hint_manager=true
+debug.hwui.target_cpu_time_percent=30
+debug.sf.enable_adpf_cpu_hint=true
+
 # Keystore
 ro.hardware.keystore_desede=true
 
