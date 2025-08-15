@@ -214,6 +214,7 @@ persist.vendor.hvdcp_opti.disallowed=1
 debug.hwui.use_hint_manager=true
 debug.hwui.target_cpu_time_percent=30
 debug.sf.enable_adpf_cpu_hint=true
+vendor.perf.framepacing.enable=1
 
 # Keystore
 ro.hardware.keystore_desede=true
