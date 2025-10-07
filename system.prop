@@ -49,6 +49,3 @@ persist.vendor.radio.report_codec=1
 
 # Zygote
 persist.device_config.runtime_native.usap_pool_enabled=true
-
-# Lunaris-AOSP Maintainer prop
-ro.paranoid.maintainer=olzhas0986
